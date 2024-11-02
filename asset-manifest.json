@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motp_ui/static/css/main.b4056467.css",
+    "main.js": "/motp_ui/static/js/main.3f66ac69.js",
+    "static/js/453.36cc37d8.chunk.js": "/motp_ui/static/js/453.36cc37d8.chunk.js",
+    "index.html": "/motp_ui/index.html",
+    "main.b4056467.css.map": "/motp_ui/static/css/main.b4056467.css.map",
+    "main.3f66ac69.js.map": "/motp_ui/static/js/main.3f66ac69.js.map",
+    "453.36cc37d8.chunk.js.map": "/motp_ui/static/js/453.36cc37d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4056467.css",
+    "static/js/main.3f66ac69.js"
+  ]
+}
